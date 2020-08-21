@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PkgSplitter", "PkgSplitter.csproj", "{061DBBE0-6290-41ED-A6DE-931AF9BBE1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{061DBBE0-6290-41ED-A6DE-931AF9BBE1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061DBBE0-6290-41ED-A6DE-931AF9BBE1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061DBBE0-6290-41ED-A6DE-931AF9BBE1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061DBBE0-6290-41ED-A6DE-931AF9BBE1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01DBAA2F-8823-4600-AD70-34DA33AF4000}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://myauu.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PkgSplitter.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PkgSplitter": {
+      "commandName": "Project",
+      "commandLineArgs": "PAKCAGE.pck"
+    }
+  }
+}
