@@ -1,5 +1,5 @@
 # pkg-splitter
-Splits one pl/sql package file into two files. One file with package header and one file with package specification.
+Splits single pl/sql package file into two files. One file with package header and one file with package specification.
 
 Using: PkgSplitter.exe PackageName.pkg
 
